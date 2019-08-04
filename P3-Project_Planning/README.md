@@ -8,12 +8,17 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+[All wireframes are in this single PDF](./WireframesForProjectPlanning.pdf)
+
+- Homepage layout
+- Login Page
+- Restaurant List Landing Page
+
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+[Project Trello Board](https://trello.com/b/8ppKVNQr/st-louis-food-guide-app)
 
 ### Project Repo Link
 
-(Include a link to your project on GitHub)
+[Link to St. Louis Restaurant Guide on Github](https://github.com/mlcowen/StLouisRestaurantGuide)
