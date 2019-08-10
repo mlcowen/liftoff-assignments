@@ -7,12 +7,12 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
  
 ### GitHub
-Provide a link to your GitHub account here.
+[Marie Cowen's Github](https://github.com/mlcowen)
  
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+[Marie Cowen's LinkedIN](https://www.linkedin.com/in/marie-cowen/)
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
+[Marie Cowen's Resume](./MarieCowenResume.pdf)
 
 
