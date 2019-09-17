@@ -7,4 +7,4 @@ We want to you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-I attached a .PDF of your presentation [here for review](./capstone-presentation.pdf).
+I attached a .PDF of my presentation [here for review](./capstone-presentation.pdf).
